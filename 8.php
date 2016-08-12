@@ -1,2 +1,4 @@
 <?php
 phpinfo();
+define ("FURUNCUL");
+
